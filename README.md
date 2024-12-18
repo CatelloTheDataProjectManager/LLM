@@ -2,6 +2,8 @@
 
 <img src="https://github.com/CatelloTheDataProjectManager/NLP-with-SageMaker/blob/main/Amazon%20SageMaker.jpg" alt="Amazon SageMaker" width="500"/>
 
+[View the Jupyter Notebook: Applying ML to an NLP](https://github.com/CatelloTheDataProjectManager/LLM-NLP-SageMaker/blob/main/Applying%20ML%20to%20an%20NLP.ipynb)
+
 
 ## Overview
 This notebook guides you through applying machine learning (ML) to a natural language processing (NLP) problem using Amazon SageMaker's built-in `LinearLearner` algorithm. The goal is to predict the sentiment (positive or negative) of product reviews for an online retail store.
