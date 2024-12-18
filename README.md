@@ -31,3 +31,14 @@ This lab guides you through extracting text from webpages using Beautiful Soup a
 
 1. **Extracting information from a webpage**: Use Beautiful Soup to scrape titles, authors, summaries, published dates, and hyperlinks from blog posts.
 2. **Extracting text from images**: Utilize Amazon Textract to extract text from images, including those with tabular data.
+
+## Processing Text
+
+### Overview
+This lab focuses on simple techniques to clean and prepare text data for machine learning (ML) modeling. You will learn how to perform basic text cleaning and lexicon-based text processing.
+
+### Steps
+
+1. **Working with simple text-cleaning processes**: Perform general-purpose text cleaning tasks such as converting to lowercase, removing whitespace, HTML tags, punctuation, and extra spaces.
+2. **Working with lexicon-based text processing**: Apply lexicon-based methods like stopword removal, stemming, and lemmatization to normalize sentences in the dataset.
+
