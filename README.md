@@ -1,4 +1,4 @@
- # Applying ML to an NLP Problem
+ # NLP with SageMaker
 
 ## Overview
 This notebook guides you through applying machine learning (ML) to a natural language processing (NLP) problem using Amazon SageMaker's built-in `LinearLearner` algorithm. The goal is to predict the sentiment (positive or negative) of product reviews for an online retail store.
