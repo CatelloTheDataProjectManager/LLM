@@ -30,6 +30,9 @@ The `AMAZON-REVIEW-DATA-CLASSIFICATION.csv` file contains actual product reviews
 
 ## Extracting Text from Webpages and Images
 
+[View the Jupyter Notebook: Extracting Text from Webpages and Images](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Extracting%20Text%20from%20Webpages%20and%20Images.ipynb)
+
+
 ### Overview
 This lab guides you through extracting text from webpages using Beautiful Soup and from images using Amazon Textract. The extracted text will be organized into a pandas dataframe for further analysis.
 
