@@ -1,4 +1,7 @@
- # NLP with SageMaker
+ # Natural Language Processing with SageMaker
+
+<img src="https://github.com/CatelloTheDataProjectManager/NLP-with-SageMaker/blob/main/Amazon%20SageMaker.jpg" alt="Amazon SageMaker" width="500"/>
+
 
 ## Overview
 This notebook guides you through applying machine learning (ML) to a natural language processing (NLP) problem using Amazon SageMaker's built-in `LinearLearner` algorithm. The goal is to predict the sentiment (positive or negative) of product reviews for an online retail store.
