@@ -34,6 +34,8 @@ This notebook covers different methods for encoding and vectorizing text data, s
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Encoding%20and%20Vectorizing%20Text.ipynb)
 
+<img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Word2Vec.png" width="500"/>
+
 ## Skills
 
 - **Natural Language Processing (NLP)**: Proficient in various NLP techniques and tools.
