@@ -42,6 +42,8 @@ This notebook demonstrates techniques for implementing information extraction us
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Information%20Extraction.ipynb)
 
+<img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Graphing%20event%20semantics.png" width="500"/>
+
 ### 6. Implementing Sentiment Analysis
 
 This notebook covers the implementation of sentiment analysis using hyperParameter Tuning, BlazingText and Amazon Comprehend .
@@ -60,15 +62,8 @@ This notebook covers the implementation of topic modeling using Amazon SageMaker
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Extraction%20with%20NTM.ipynb)
 
+<img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/WordCloudTopics.png" width="500"/>
 
-
-## Skills
-
-- **Natural Language Processing (NLP)**: Proficient in various NLP techniques and tools.
-- **Large Language Models (LLM)**: Experience in building and deploying LLM models.
-- **Amazon SageMaker**: Skilled in using SageMaker for model training, deployment, and management.
-- **Web Scraping**: Knowledgeable in extracting and processing data from web sources.
-- **Text Processing**: Expertise in text preprocessing, tokenization, and vectorization.
 
 ## Contact
 
