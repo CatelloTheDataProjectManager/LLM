@@ -38,22 +38,22 @@ This notebook covers different methods for encoding and vectorizing text data, s
 
 ### 5. Implementing Information Extraction
 
-This notebook demonstrates techniques for implementing information extraction using Amazon SageMaker.
+This notebook demonstrates techniques for implementing information extraction using Amazon SageMaker and Spacy.
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Information%20Extraction.ipynb)
 
-<img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Entity%20detection%20.png" alt="Entity Detection" width="500"/>
-
-<img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Graphing%20event%20semantics.png" alt="Graphing Event Semantics" width="500"/>
-
-
-
-
 ### 6. Implementing Sentiment Analysis
 
-This notebook covers the implementation of sentiment analysis using Amazon SageMaker.
+This notebook covers the implementation of sentiment analysis using Amazon SageMaker and Natural Language Toolkit.
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Sentiment%20Analysis.ipynb)
+
+### 7. Implementing Topic Modeling
+
+This notebook covers the implementation of topic modeling using Amazon SageMaker and Amazon Comprehend.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Modeling.ipynb)
+
 
 
 ## Skills
