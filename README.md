@@ -36,6 +36,18 @@ This notebook covers different methods for encoding and vectorizing text data, s
 
 <img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Word2Vec.png" width="500"/>
 
+### 5. Implementing Information Extraction
+
+This notebook demonstrates techniques for implementing information extraction using Amazon SageMaker.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Information%20Extraction.ipynb)
+
+### 6. Implementing Sentiment Analysis
+
+This notebook covers the implementation of sentiment analysis using Amazon SageMaker.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Sentiment%20Analysis.ipynb)
+
 ## Skills
 
 - **Natural Language Processing (NLP)**: Proficient in various NLP techniques and tools.
@@ -51,5 +63,3 @@ Feel free to reach out to me if you have any questions or if you are interested 
 ---
 
 Thank you for visiting my repository! I hope you find the content useful and informative.
-
-
