@@ -44,7 +44,7 @@ This notebook demonstrates techniques for implementing information extraction us
 
 ### 6. Implementing Sentiment Analysis
 
-This notebook covers the implementation of sentiment analysis using Amazon SageMaker and Natural Language Toolkit.
+This notebook covers the implementation of sentiment analysis using hyperParameter Tuning, BlazingText and Amazon Comprehend .
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Sentiment%20Analysis.ipynb)
 
