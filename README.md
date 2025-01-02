@@ -52,7 +52,7 @@ This notebook covers the implementation of sentiment analysis using hyperParamet
 
 This notebook covers the implementation of topic modeling using Amazon SageMaker and Amazon Comprehend.
 
-[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Modeling.ipynb)
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Modeling%20with%20Amazon%20Comprehend.ipynb)
 
 
 
