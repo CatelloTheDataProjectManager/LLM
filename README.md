@@ -50,15 +50,15 @@ This notebook covers the implementation of sentiment analysis using hyperParamet
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Sentiment%20Analysis.ipynb)
 
-### 7. Implementing Topic Modeling with Amazon Comprehend
+### 7. Implementing Topic Modeling with Latent Dirichlet Allocation (LDA) Algorithm
 
 This notebook covers the implementation of topic modeling using Amazon SageMaker and Amazon Comprehend.
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Modeling%20with%20Amazon%20Comprehend.ipynb)
 
-### 8. Implementing Topic Modeling with Neural Topic Model (NTM) algorithm
+### 8. Implementing Topic Modeling with Neural Topic Model (NTM) Algorithm
 
-This notebook covers the implementation of topic modeling using Amazon SageMaker and Neural Topic Model (NTM) algorithm.
+This notebook covers the implementation of topic modeling using Amazon SageMaker.
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Extraction%20with%20NTM.ipynb)
 
