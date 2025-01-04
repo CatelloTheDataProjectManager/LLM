@@ -58,7 +58,7 @@ This notebook covers the implementation of a probabilistic model
 
 ### 8. Implementing Topic Modeling with Neural Topic Model (NTM) Algorithm
 
-This notebook covers the implementation a neural network-based)model.
+This notebook covers the implementation a neural network-based model.
 
 [View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Extraction%20with%20NTM.ipynb)
 
