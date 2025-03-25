@@ -96,4 +96,7 @@ This section focuses on **Retrieval-Augmented Generation (RAG)** for creating dy
 - **LangChain** (RAG orchestration)
 - **Hugging Face** (LLMs & embeddings)
 
+[Notebook AI Agent Prototype](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/ia_agent_google_colab.ipynb)
+- *Google Colab notebook showcasing real-time LLM interaction patterns and response optimization techniques*
+     
 💡 *This project illustrates how AI and LLMs revolutionize text analytics and actionable insight generation.* 🚀
