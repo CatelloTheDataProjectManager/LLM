@@ -100,3 +100,29 @@ This section focuses on **Retrieval-Augmented Generation (RAG)** for creating dy
 - *Google Colab notebook showcasing real-time LLM interaction patterns and response optimization techniques*
      
 💡 *This project illustrates how AI and LLMs revolutionize text analytics and actionable insight generation.* 🚀
+
+# Project: Automated Monthly Performance Analysis with AI
+
+## 🌟 Key Features
+
+### 🤖 AI Data Analyst
+- Uses **DeepSeek** (free via OpenRouter)
+- Compares current vs. previous month metrics
+- Auto-detects trends (+ comments anomalies)
+
+### 📚 RAG Context
+- Enriches data with:
+  - Team meeting notes
+  - Strategic discussions
+- Explains variations using org knowledge
+
+*Example output*:  
+> " **Problème machine à lait** (15-18 oct) → Clients refusés pour lattes → **Americano with Milk** nouveau best-seller."
+
+## ✅ Benefits
+- Free (no Mistral/HuggingFace limits)
+- Smarter insights via meeting context
+- Hands-off monthly reporting
+
+[Notebook AI Agent + RAG](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/notebook_RAG.ipynb)
+- *VsCode notebook showcasing real-time LLM interaction patterns and response optimization techniques + RAG*
