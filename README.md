@@ -126,3 +126,20 @@ This section focuses on **Retrieval-Augmented Generation (RAG)** for creating dy
 
 [Notebook AI Agent + RAG](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/notebook_RAG.ipynb)
 - *VsCode notebook showcasing real-time LLM interaction patterns and response optimization techniques + RAG*
+
+I developed a user-friendly app that integrates seamlessly with AI tools to display insightful monthly performance reports. It simplifies data visualization, highlights trends, and adds organizational context—offering smarter, hands-off reporting without constraints. The app's design ensures clarity and adaptability, enriching analytics for strategic decision-making. It's an intuitive solution for professionals!
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/CatelloTheDataProjectManager/LLM/blob/main/tree.png" 
+                alt="Image d'un arbre" 
+                style="height: 300px; object-fit: contain;"/>
+        </td>
+        <td>
+            <img src="https://github.com/CatelloTheDataProjectManager/LLM/blob/main/message_marketing.png" 
+                alt="Image de message marketing" 
+                style="height: 300px; object-fit: contain;"/>
+        </td>
+    </tr>
+</table>
