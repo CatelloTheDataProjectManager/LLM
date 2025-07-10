@@ -1,12 +1,12 @@
-# 🚀 AI & LLM Projects: NLP with Amazon SageMaker & RAG-Powered Reporting
+# AI & LLM Projects: NLP with Amazon SageMaker & RAG-Powered Reporting
 
-## 📌 Overview
+## Overview
 
-This GitHub repository showcases **Large Language Models (LLMs)** and **Natural Language Processing (NLP) pipelines** with **Amazon SageMaker**, AI-Generated Reports, and **Prompt Engineering for LLM Optimization**.
+This GitHub repository showcases **Large Language Models (LLMs)** and **Natural Language Processing (NLP) pipelines** using **Amazon SageMaker**, AI-Generated Reports, and **Prompt Engineering for LLM Optimization**.
 
 ---
 
-## 🔍 Part 1: NLP & LLM Implementations with Amazon SageMaker
+## Part 1: NLP & LLM Implementations with Amazon SageMaker
 
 ### Certifications & Tools
 
@@ -21,7 +21,7 @@ This GitHub repository showcases **Large Language Models (LLMs)** and **Natural 
     </tr>
 </table>
 
-### 📘 Key NLP Use Cases
+### Key NLP Use Cases
 
 1. **[Natural Language Processing with SageMaker](notebook-link)**  
    - Data preprocessing, AI model training, and evaluation for NLP applications.
@@ -46,99 +46,111 @@ This GitHub repository showcases **Large Language Models (LLMs)** and **Natural 
 
 ---
 
-## 🤖 Part 2: AI-Generated Reports with RAG Architecture
+## Part 2: AI-Generated Reports with RAG Architecture
 
-### 🔹 How Generative AI Transforms Data Analysis
+### How Generative AI Transforms Data Analysis
 
 This section focuses on **Retrieval-Augmented Generation (RAG)** for creating dynamic, data-driven reports.
 
 - **Retrieval**: Context-aware data fetching from knowledge bases.
-- **Generation**: Fluid synthesis via LLMs (mistralai/Mixtral-8x7B-Instruct-v0.1).
+- **Generation**: Fluid synthesis via LLMs (e.g., mistralai/Mixtral-8x7B-Instruct-v0.1).
 
-### 🔹 Practical Applications
-✅ Automated KPI analysis reports  
-✅ Managerial communications  
-✅ Industry-specific insights generation  
+### Practical Applications
 
-### 🔹 Key Benefits
-- **📈 Enhanced relevance** through real-time data integration.
-- **⏳ 80% faster report generation**.
-- **🔗 Seamless integration** with **LangChain** & **Hugging Face**.
+- Automated KPI analysis reports  
+- Managerial communications  
+- Industry-specific insights generation  
+
+### Key Benefits
+
+- Enhanced relevance through real-time data integration  
+- Up to 80% faster report generation  
+- Seamless integration with **LangChain** & **Hugging Face**
 
 ---
 
-## ✨ Part 3: Prompt Engineering for LLM Optimization
+## Part 3: Prompt Engineering for LLM Optimization
 
-### 🎯 Best Practices for Effective Prompt Design
+### Best Practices for Effective Prompt Design
 
 1. **Precision & Clarity**  
    - Example:  
      ```
-     "Generate a Q3 KPI summary with: 1) Key metrics 2) Trend analysis 3) Actionable recommendations."
+     Generate a Q3 KPI summary with: 
+     1) Key metrics 
+     2) Trend analysis 
+     3) Actionable recommendations.
      ```
+
 2. **Context Adaptation**  
    - Specify the expected output format (tables, bullet points) and audience.
+
 3. **Iteration & Refinement**  
    - Adjust prompts based on LLM outputs to enhance accuracy.
 
-### 📌 Example: Motivational Email for a Sales Team
+### Example: Motivational Email for a Sales Team
 
 > "As a sales director, craft a motivational email for the team including:  
-> - Positive performance highlights 📊  
-> - Three data-driven improvement areas 📌  
-> - A compelling call-to-action 💡 (engaging and inspirational tone)."
+> - Positive performance highlights  
+> - Three data-driven improvement areas  
+> - A compelling call-to-action (engaging and inspirational tone)."
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
-- **Amazon SageMaker** (AI infrastructure)
-- **LangChain** (RAG orchestration)
+- **Amazon SageMaker** (AI infrastructure)  
+- **LangChain** (RAG orchestration)  
 - **Hugging Face** (LLMs & embeddings)
 
-[Notebook AI Agent Prototype](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/ia_agent_google_colab.ipynb)
-- *Google Colab notebook showcasing real-time LLM interaction patterns and response optimization techniques*
-     
-💡 *This project illustrates how AI and LLMs revolutionize text analytics and actionable insight generation.* 🚀
+[Notebook AI Agent Prototype](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/ia_agent_google_colab.ipynb)  
+*Google Colab notebook showcasing real-time LLM interaction patterns and response optimization techniques.*
+
+---
 
 # Project: Automated Monthly Performance Analysis with AI
 
-## 🌟 Key Features
+## Key Features
 
-### 🤖 AI Data Analyst
-- Uses **DeepSeek** (free via OpenRouter)
-- Compares current vs. previous month metrics
-- Auto-detects trends (+ comments anomalies)
+### AI Data Analyst
 
-### 📚 RAG Context
+- Uses **DeepSeek** (free via OpenRouter)  
+- Compares current vs. previous month metrics  
+- Auto-detects trends and comments on anomalies  
+
+### RAG Context Integration
+
 - Enriches data with:
   - Team meeting notes
-  - Strategic discussions
-- Explains variations using org knowledge
+  - Strategic discussions  
+- Explains variations using organizational knowledge
 
-*Example output*:  
-> " **Problème machine à lait** (15-18 oct) → Clients refusés pour lattes → **Americano with Milk** nouveau best-seller."
+*Example output:*  
+> "**Problème machine à lait** (15–18 oct) → Clients refusés pour lattes → **Americano with Milk** nouveau best-seller."
 
-## ✅ Benefits
-- Free (no Mistral/HuggingFace limits)
-- Smarter insights via meeting context
-- Hands-off monthly reporting
+## Benefits
 
-[Notebook AI Agent + RAG](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/notebook_RAG.ipynb)
-- *VsCode notebook showcasing real-time LLM interaction patterns and response optimization techniques + RAG*
+- No cost (no Mistral/Hugging Face API limits)  
+- Smarter insights via contextual data  
+- Hands-off monthly reporting  
 
-I developed a user-friendly app that integrates seamlessly with AI tools to display insightful monthly performance reports. It simplifies data visualization, highlights trends, and adds organizational context—offering smarter, hands-off reporting without constraints. The app's design ensures clarity and adaptability, enriching analytics for strategic decision-making. It's an intuitive solution for professionals!
+[Notebook AI Agent + RAG](https://github.com/CatelloTheDataProjectManager/LLM/blob/main/notebook_RAG.ipynb)  
+*VSCode notebook demonstrating LLM interaction + RAG-enabled optimization.*
+
+---
+
+I developed a user-friendly app that integrates seamlessly with AI tools to display insightful monthly performance reports. It simplifies data visualization, highlights trends, and adds organizational context—offering smarter, hands-off reporting without constraints. The app's design ensures clarity and adaptability, enriching analytics for strategic decision-making. It is an intuitive solution for professionals.
 
 <table>
     <tr>
         <td>
             <img src="https://github.com/CatelloTheDataProjectManager/LLM/blob/main/tree.png" 
-                alt="Image d'un arbre" 
+                alt="Tree illustration" 
                 style="height: 300px; object-fit: contain;"/>
         </td>
         <td>
             <img src="https://github.com/CatelloTheDataProjectManager/LLM/blob/main/message_marketing.png" 
-                alt="Image de message marketing" 
+                alt="Marketing message illustration" 
                 style="height: 300px; object-fit: contain;"/>
         </td>
     </tr>
